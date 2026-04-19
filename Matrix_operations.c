@@ -1,5 +1,3 @@
-Task 2 : Matrix Operations 
-
 #include <stdio.h>
 
 void readMatrix(int a[10][10], int r, int c) {
