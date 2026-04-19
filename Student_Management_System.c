@@ -1,5 +1,3 @@
-Task 3 : Student Management System
-
 #include <stdio.h>
 #include <stdlib.h>
 
